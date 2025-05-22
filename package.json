@@ -1,5 +1,5 @@
 {
-  "name": "expo-background-task",
+  "name": "expo-background",
   "version": "1.0.0",
   "main": "index.ts",
   "scripts": {
@@ -21,7 +21,6 @@
     "@react-navigation/native": "^7.1.9",
     "@react-navigation/native-stack": "^7.3.13",
     "@reduxjs/toolkit": "^2.8.2",
-    "buffer": "^6.0.3",
     "expo": "~53.0.9",
     "expo-background-task": "~0.2.7",
     "expo-blur": "~14.1.4",
@@ -46,8 +45,7 @@
     "react-native-safe-area-context": "5.4.0",
     "react-native-screens": "~4.10.0",
     "react-native-web": "^0.20.0",
-    "react-redux": "^9.2.0",
-    "redux-persist": "^6.0.0"
+    "react-redux": "^9.2.0"
   },
   "overrides": {
     "react": "19.0.0"
